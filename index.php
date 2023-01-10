@@ -7,6 +7,10 @@
     <title>Home</title>
 </head>
 <body>
-    
+    <form action="">
+        <input type="text">
+        <input type="password">
+        <button>SUBMIT</button>
+    </form>
 </body>
 </html>
